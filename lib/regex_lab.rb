@@ -1,4 +1,9 @@
-def starts_with_a_vowel?(word)
+gbndef starts_with_a_vowel?(word)
+    #stars_with_a_vowel?
+    if words.match (/^\[aeiouAEIOU]/)
+        returns true
+    end
+
 
 end
 
